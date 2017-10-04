@@ -119,3 +119,6 @@ def ask_if_ready(step, index)
 
   answer.upcase == 'Y'
 end
+
+print_divider
+puts "Listo! Enjoy your meal!"
