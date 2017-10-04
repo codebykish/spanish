@@ -8,3 +8,14 @@ def print_divider
      sleep 0.5; print "."
      puts "\n"
    end
+
+NUM_POTATOES = 5
+NUM_EGGS = 6
+
+ingredients = [
+  {name: 'potatoes', quantity: 'NUM_POTATOES'},
+  {name: 'eggs', quantity: 'NUM_EGGS'}
+  {name: 'onion', quatity: '1'}
+  {name: 'oil', quantity: 'some'}
+  {name: 'salt', quantity: 'some'}
+]
